@@ -1,0 +1,7 @@
+name: TheRedVillagers
+author: Redblaze42
+version: 1
+website: redblaze.ovh
+main: ovh.redblaze.theredvillagers.main
+commands:
+ villagers:
